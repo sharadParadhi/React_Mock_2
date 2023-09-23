@@ -1,0 +1,15 @@
+{
+    "products":[
+        {
+            "id":1,
+            "image":"https://thehouseofrare.com/cdn/shop/files/NAPLESS-WHITE5312HERO_900x.jpg?v=1691564080",
+            "name":"LINEN EXCEL SHIRT",
+            "description":" classic full sleeved",
+            "gender":"male",
+            "category":"shirts",
+            "price":240
+            
+
+        }
+    ]
+}
